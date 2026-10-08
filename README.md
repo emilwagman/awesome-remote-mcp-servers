@@ -929,9 +929,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [AIeph](https://aieph.dev) `https://aieph.dev/mcp`
   [![AIeph MCP connector](https://glama.ai/mcp/connectors/dev.aieph/aieph/badges/score.svg)](https://glama.ai/mcp/connectors/dev.aieph/aieph)
   🔓 - Look up a shared cache of past answers to programming questions.
-- [Amber Notes](https://ambernotes.app) `https://mcp.ambernotes.app`
-  [![Amber Notes MCP connector](https://glama.ai/mcp/connectors/app.ambernotes/amber-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.ambernotes/amber-notes)
-  🔐 - Search, read and edit your notes; every AI edit is highlighted in the app, with version history and undo.
 - [Atlas Red](https://atlas-red.com/mind-map-mcp) `https://app.atlas-red.com/mcp`
   [![Atlas Red MCP connector](https://glama.ai/mcp/connectors/com.atlas-red/mind-map/badges/score.svg)](https://glama.ai/mcp/connectors/com.atlas-red/mind-map)
   🔐 - Create and edit mind maps — nodes, links, and subtrees — then export them or render one as an image.
@@ -987,6 +984,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OwnerSpec](https://ownerspec.com/mcp-server/) `https://ownerspec.com/mcp`
   [![OwnerSpec MCP connector](https://glama.ai/mcp/connectors/com.ownerspec/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.ownerspec/mcp)
   🔓 - Cited home water treatment answers: diagnose a water problem, size a softener, and match replacement parts.
+- [Pinto Notes](https://pintonotes.com) `https://mcp.ambernotes.app`
+  [![Pinto Notes MCP connector](https://glama.ai/mcp/connectors/app.ambernotes/amber-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.ambernotes/amber-notes)
+  🔐 - Search, read and edit your notes; every AI edit is highlighted in the app, with version history and undo.
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
   🔓 - Reuse verified results and pitfalls other agents already published, before doing the work yourself.
