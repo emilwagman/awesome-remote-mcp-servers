@@ -1538,8 +1538,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [past.dev](https://past.dev/docs/mcp/overview) `https://app.past.dev/mcp`
   [![past.dev MCP connector](https://glama.ai/mcp/connectors/dev.past/past/badges/score.svg)](https://glama.ai/mcp/connectors/dev.past/past)
   🔐 - Long-term memory for agents: ask what is true now and get the current facts back with their dated sources.
-- [Pinto Notes](https://pintonotes.com) `https://mcp.ambernotes.app`
-  [![Pinto Notes MCP connector](https://glama.ai/mcp/connectors/app.ambernotes/amber-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.ambernotes/amber-notes)
+- [Pinto Notes](https://pintonotes.com) `https://mcp.pintonotes.com`
+  [![Pinto Notes MCP connector](https://glama.ai/mcp/connectors/com.pintonotes/pinto-notes/badges/score.svg)](https://glama.ai/mcp/connectors/com.pintonotes/pinto-notes)
   🔐 - Search, read and edit your notes; every AI edit is highlighted in the app, with version history and undo.
 - [QianYuan 乾元](https://qianyuan.ltd) `https://qianyuan.ltd/mcp`
   [![QianYuan MCP connector](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution/badges/score.svg)](https://glama.ai/mcp/connectors/ltd.qianyuan/qy-evolution)
